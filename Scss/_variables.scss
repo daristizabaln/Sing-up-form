@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+$font__family: 'Poppins', sans-serif;
+
+$primary__color: hsl(0, 100%, 74%);
+$primary__color--dark: hsl(0, 27%, 25%);
+
+$secundary__color: hsl(154, 59%, 51%);
+
+$third__color: hsl(248, 32%, 49%);
+
+$font-main__color: hsl(249, 10%, 26%) ;
+$font-main__color--dark: hsl(0, 0%, 56%) ;
+
+$font-secundary__color: hsl(246, 25%, 77%);
+$font-secundary__color--dark: hsl(246, 25%, 77%);
+
+$font__white: hsl(0, 0%, 100%);
+$font__white--dark: $font-main__color;
+
+
+
+$border-radius: 8px

@@ -17,5 +17,4 @@
 # Ignorar la carpeta de node
 node_modules
 
-# Ignorar Scss
-Scss
+
